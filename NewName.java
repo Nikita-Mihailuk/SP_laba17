@@ -1,0 +1,1 @@
+ public class NewName { public static void main(String[] args) { int x = 5; double h = 3.14; String i = "Hello"; boolean ic static void p(String i, int x) { System.out.println(i + " " + x); } }r = true; p(i, x); } publ
